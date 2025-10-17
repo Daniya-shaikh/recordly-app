@@ -1,4 +1,4 @@
-# Recorly App
+# Recordly App
 
 A demo app built with Flutter for managing and recording user data.
 
